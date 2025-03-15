@@ -87,8 +87,7 @@
 
 ---
 
-## 🎵 Now Playing:
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user_id)](https://open.spotify.com/user/your_spotify_user_id)
+
 
 ---
 
