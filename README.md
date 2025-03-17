@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 - 💬 Ask me about **Java, JavaScript, and Web Development**
 - ⚡ Fun fact: **I love listening to romantic Hindi songs 🎶**
-- 📫 Reach me at **anishkanrar@example.com**  
+- 📫 Reach me at **anishkanrar.dev@gmail.com**  
 
 ---
 
