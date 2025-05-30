@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm AK</h1>
 
 
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJpeHI1NDFzeHNmZGZxMWZyeWtmZzF1aHNjbDRiM2p3cnd4aW1mciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" width="300"/>
 
 <h3 align="center">A passionate frontend developer from India 🚀</h3>
